@@ -67,7 +67,7 @@ Font Awesome:
 
 
 
-## license
+## License
 All icon i used for this project belong to their owners
 
 
