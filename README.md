@@ -4,12 +4,13 @@
  
  ## Table of Contents
 1. [general-info](#general-info)
-2. [languages](#technologies)
+2. [technologies](#technologies)
+3. [code](#code)
 
 
 ### General Info
 ***
-The main goal behind this project was to recreate the aspect of main page of GOOGLE.
+The main goal behind this project was to recreate the aspect of main page of GOOGLE,it was for a school project.
 
 The time for make this in 2 days.
 ### Screenshot
@@ -17,8 +18,10 @@ The time for make this in 2 days.
 ## Technologies
 ***
 A list of languages used within the project:
-* [HTML5](https://example.com): Version 5
-* [CSS3](https://example.com): Version 3
+* [HTML5]: Version 5
+* [CSS3]: Version 3
+* [GOOGLE FONTS](https://fonts.google.com/)
+* [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
 
 You don't need Download anything, you can just simply rename a folder.
@@ -35,32 +38,36 @@ For install this project click on the button code
 
 and then download the zip
 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
+![image](https://user-images.githubusercontent.com/91453779/142699293-08b90e53-38b3-4ad7-a292-4480aedfd298.png)
+
+Take on the zip to open both file otherwise  not my problem ``` (╯°□°）╯︵ ┻━┻```
+
+
+## Code
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+```┬─┬﻿ ノ( ゜-゜ノ)```
+
+In this project I use [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2) and [GOOGLE FONTS](https://fonts.google.com/)
+So here, it is their part in ```<head>```
+
+Google Fonts:
+
+
+```<script src="https://kit.fontawesome.com/a4e82a160d.js" crossorigin="anonymous">```
+
+```</script><link rel="preconnect" href="https://fonts.googleapis.com">```
+
+```<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> ```
+
+
+ 
+Font Awesome:
+
+```<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">```
+
+
+
+## license
+All icon i used for this project belong to their owners
+
+
