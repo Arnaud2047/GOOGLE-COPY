@@ -30,7 +30,10 @@ You don't need Download anything, you can just simply rename a folder.
 For install this project click on the button code 
 
 ![image](https://user-images.githubusercontent.com/91453779/142698888-8c671a2b-6f3e-49e5-a77f-d6a2976fc9df.png)
-https://github.com/Arnaud2047/GOOGLE-COPY.git
+
+(https://github.com/Arnaud2047/GOOGLE-COPY.git)
+
+and then download the zip
 
 ```
 $ git clone https://example.com
